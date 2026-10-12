@@ -5,7 +5,7 @@ Cybersecurity student (SPŠE Prague) · Junior DevSecOps
 - **Homelab:** Proxmox, Ubuntu Server, Docker (n8n, Uptime Kuma)
 - **Experience:** 2× internship at České Radiokomunikace · CCNA (ITN, ITE) · Hack The Box
 - **Open to:** part-time remote DevOps / DevSecOps work, 8–10 h/week (invoicing as a Czech sole trader)
-- **Contact:** your-email@…
+- **Contact:** vova.builds.sec@gmail.com
 
 
 # 💻 Tech Stack:
