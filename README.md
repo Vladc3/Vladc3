@@ -1,9 +1,15 @@
-# 💫 About Me:
-Currently Working On<br>- Building and improving my home lab for networking and cybersecurity practice<br>- Automating vulnerability analysis and visualization using Python<br><br>Looking to Collaborate On<br>- Open-source projects in cybersecurity, IT automation, or network simulations<br><br>Looking for Help With<br>- Advanced cybersecurity techniques<br>- Structuring portfolio-ready projects<br><br>Currently Learning<br>- Cisco networking protocols, Python automation, and practical cybersecurity techniques<br>- Hands-on skills and experiments in my home lab<br><br>Ask Me About<br>- Home labs, networking setups, and Python for IT/security projects<br><br>Fun Fact<br>- Built a math WPF app that handles logarithmic, exponential, and rational functions<br>- Enjoy combining coding and networking experiments to create practical learning projects<br>- I also work out regularly to stay strong and fit
+## Hi, I'm Vova
+Cybersecurity student (SPŠE Prague) · Junior DevSecOps
+
+- **Working on:** Ansible server hardening, backups with a tested restore, CI/CD with Trivy & gitleaks
+- **Homelab:** Proxmox, Ubuntu Server, Docker (n8n, Uptime Kuma), Cloudflare Tunnel
+- **Experience:** 2× internship at České Radiokomunikace · CCNA (ITN, ITE) · Hack The Box
+- **Open to:** part-time remote DevOps / DevSecOps work, 8–10 h/week (invoicing as a Czech sole trader)
+- **Contact:** your-email@…
 
 
 # 💻 Tech Stack:
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black)
+Linux · Docker · Proxmox · Bash · Python · PowerShell · Git · Cisco networking
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Vladc3&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=Vladc3&theme=dark&hide_border=false)<br/>
