@@ -4,7 +4,7 @@ Cybersecurity student (SPŠE Prague) · Junior DevSecOps
 - **Working on:** Ansible server hardening, backups with a tested restore, CI/CD with Trivy & gitleaks
 - **Homelab:** Proxmox, Ubuntu Server, Docker (n8n, Uptime Kuma)
 - **Experience:** 2× internship at České Radiokomunikace · CCNA (ITN, ITE) · Hack The Box
-- **Open to:** part-time remote DevOps / DevSecOps work, 8–10 h/week (invoicing as a Czech sole trader)
+- **Open to:** part-time remote DevOps / DevSecOps work, 6 h/week (invoicing as a Czech sole trader)
 - **Contact:** vova.builds.sec@gmail.com
 
 
