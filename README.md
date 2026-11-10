@@ -1,50 +1,47 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1400&color=F5B454&center=true&vCenter=true&width=640&height=48&duration=3200&lines=%24+whoami;Cybersecurity+student+%C2%B7+SP%C5%A0E+Prague;Junior+DevSecOps;hardening+%C2%B7+backups+%C2%B7+CI+that+scans+itself" alt="whoami: cybersecurity student, junior DevSecOps" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:090B0D,100:F5B454&height=200&section=header&text=Vova&fontColor=EDEDED&fontSize=68&fontAlignY=38&desc=Cybersecurity%20student%20%C2%B7%20Junior%20DevSecOps&descAlignY=60&descSize=18" alt="Vova, cybersecurity student and junior DevSecOps" />
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&pause=1400&color=F5B454&center=true&vCenter=true&width=640&height=40&duration=3200&lines=Ansible+server+hardening;Backups+with+a+tested+restore;CI%2FCD+that+scans+itself+(Trivy+%2B+gitleaks)" alt="Ansible server hardening, backups with a tested restore, CI/CD that scans itself" />
 
 <br>
 
-<img src="https://skillicons.dev/icons?i=linux,docker,ansible,bash,py,powershell,git,githubactions&theme=dark" alt="Linux, Docker, Ansible, Bash, Python, PowerShell, Git, GitHub Actions" />
+<img src="https://img.shields.io/badge/open%20to%20work-6%20h%2Fweek-3ECF8E?style=flat-square&labelColor=101316" alt="Open to work, 6 hours a week" />
+<img src="https://img.shields.io/badge/based%20in-Prague-B48CFF?style=flat-square&labelColor=101316" alt="Based in Prague" />
+<img src="https://img.shields.io/badge/Cisco-CCNA%20courses-7FE3F0?style=flat-square&labelColor=101316" alt="Cisco CCNA courses" />
 
 </div>
 
-<br>
+### About
 
-```console
-vova@prague-01:~$ cat mission.log
-[ACTIVE]  Ansible server hardening
-[ACTIVE]  Backups with a restore that was actually tested
-[ACTIVE]  CI/CD that scans itself: Trivy + gitleaks
-[SEALED]  Everything else (ask nicely)
+- **Studying:** cybersecurity at SPŠE V Úžlabině, school-leaving exam 05/2027
+- **Working on:** Ansible server hardening, backups with a tested restore, CI/CD with Trivy and gitleaks
+- **Homelab:** Proxmox, Ubuntu Server, Docker (n8n, Uptime Kuma)
+- **Experience:** 2× internship at České Radiokomunikace, co-founder of [Syvia](https://syvia.cz), Hack The Box
+- **Courses:** Cisco CCNA (ITN, SRWE, ITE), NDG Linux
+- **Open to:** part-time remote DevOps / DevSecOps work, 6 h/week (invoicing as a Czech sole trader)
 
-vova@prague-01:~$ cat service-record.txt
-2x internship ........ České Radiokomunikace
-certs ................ CCNA (ITN, SRWE, ITE)
-training grounds ..... Hack The Box
-homelab .............. Proxmox · Ubuntu Server · Docker (n8n, Uptime Kuma)
-also in the toolbox .. Cisco networking
+### Skills
 
-vova@prague-01:~$ ./availability --check
-status:  OPEN
-terms:   part-time remote DevOps / DevSecOps, 6 h/week
-billing: Czech sole trader
+<img src="https://skillicons.dev/icons?i=linux,docker,ansible,windows,bash,py,c,cs,git,githubactions&theme=dark" alt="Linux, Docker, Ansible, Windows, Bash, Python, C, C#, Git, GitHub Actions" />
 
-vova@prague-01:~$ ./contact --secure
-vova.builds.sec@gmail.com
+Cisco IOS · MikroTik · OSPF · IPv6 · VPN (Tailscale) · Wireshark · Active Directory · TLS · NIS2
 
-vova@prague-01:~$ _
-```
+### Stats
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=Vladc3&hide_border=false&background=090B0D&ring=F5B454&fire=F5B454&currStreakNum=EDEDED&sideNums=EDEDED&currStreakLabel=F5B454&sideLabels=A1A1A1&dates=808080&stroke=3D3931&border=3D3931" alt="GitHub streak" />
+<img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Vladc3&show_icons=true&hide_border=false&bg_color=090B0D&title_color=F5B454&text_color=EDEDED&icon_color=7FE3F0&border_color=232A30&ring_color=B48CFF" alt="GitHub stats" />
+<img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Vladc3&layout=compact&hide_border=false&bg_color=090B0D&title_color=F5B454&text_color=EDEDED&border_color=232A30" alt="Top languages" />
 
-<br><br>
+<img src="https://streak-stats.demolab.com?user=Vladc3&background=090B0D&ring=B48CFF&fire=F5B454&currStreakNum=EDEDED&sideNums=EDEDED&currStreakLabel=F5B454&sideLabels=A1A1A1&dates=808080&stroke=232A30&border=232A30" alt="GitHub streak" />
 
 <img src="https://raw.githubusercontent.com/Vladc3/Vladc3/output/snake.svg" alt="Contribution graph with a snake eating the commits" />
 
-<br>
-
-<sub><code>EOF</code> — transmission ends.</sub>
-
 </div>
+
+### Contact
+
+<a href="mailto:vova.builds.sec@gmail.com"><img src="https://img.shields.io/badge/e--mail-vova.builds.sec%40gmail.com-F5B454?style=flat-square&labelColor=101316" alt="E-mail" /></a>
+<a href="https://www.vova-builds.dev"><img src="https://img.shields.io/badge/web-vova--builds.dev-7FE3F0?style=flat-square&labelColor=101316" alt="Website vova-builds.dev" /></a>
+<a href="https://www.instagram.com/proste_v0va/"><img src="https://img.shields.io/badge/instagram-%40proste__v0va-B48CFF?style=flat-square&labelColor=101316" alt="Instagram @proste_v0va" /></a>
