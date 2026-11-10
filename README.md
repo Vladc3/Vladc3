@@ -1,10 +1,10 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1400&color=F5B454&center=true&vCenter=true&width=640&height=48&duration=3200&lines=%24+whoami;Cybersecurity+student+%C2%B7+SPŠE+Prague;Junior+DevSecOps;hardening+%C2%B7+backups+%C2%B7+CI+that+scans+itself" alt="whoami: cybersecurity student, junior DevSecOps" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1400&color=F5B454&center=true&vCenter=true&width=640&height=48&duration=3200&lines=%24+whoami;Cybersecurity+student+%C2%B7+SP%C5%A0E+Prague;Junior+DevSecOps;hardening+%C2%B7+backups+%C2%B7+CI+that+scans+itself" alt="whoami: cybersecurity student, junior DevSecOps" />
 
 <br>
 
-<img src="https://skillicons.dev/icons?i=linux,docker,proxmox,ansible,bash,py,powershell,git,githubactions&theme=dark" alt="Linux, Docker, Proxmox, Ansible, Bash, Python, PowerShell, Git, GitHub Actions" />
+<img src="https://skillicons.dev/icons?i=linux,docker,ansible,bash,py,powershell,git,githubactions&theme=dark" alt="Linux, Docker, Ansible, Bash, Python, PowerShell, Git, GitHub Actions" />
 
 </div>
 
