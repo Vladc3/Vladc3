@@ -1,4 +1,4 @@
-name: snake
+name: activity
 
 on:
   schedule:
@@ -15,12 +15,14 @@ jobs:
     runs-on: ubuntu-latest
     timeout-minutes: 10
     steps:
-      # actions pinned by commit SHA (snk v3, ghaction-github-pages v5)
-      - uses: Platane/snk/svg-only@d8f6715049803e982ee5ff501b6b9b7d5deeb09b
-        with:
-          github_user_name: ${{ github.repository_owner }}
-          outputs: |
-            dist/snake.svg?color_snake=7FE3F0&color_dots=#15191c,#4a3a1f,#8a6a2f,#c48f3f,#F5B454
+      # actions pinned by commit SHA (checkout v4, ghaction-github-pages v5)
+      - uses: actions/checkout@11d5960a326750d5838078e36cf38b85af677262
+
+      - run: python3 build/test_activity.py
+
+      - run: mkdir -p dist && python3 build/activity.py "$GITHUB_REPOSITORY_OWNER" dist/activity.svg
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
       - uses: crazy-max/ghaction-github-pages@1d6ee9b181a81033a16bd707a1401afa978daab4
         with:
