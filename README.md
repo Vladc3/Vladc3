@@ -2,7 +2,7 @@
 
 <p align="center"><img src="https://skillicons.dev/icons?i=linux,docker,ansible,windows,bash,py,cs,git,githubactions&theme=dark" alt="Linux, Docker, Ansible, Windows, Bash, Python, C#, Git, GitHub Actions" /></p>
 
-<p align="center"><sub>Cisco IOS · MikroTik · OSPF · IPv6 · VPN (Tailscale) · Wireshark · Active Directory · TLS · NIS2</sub></p>
+<p align="center"><sub>Cisco IOS · MikroTik · subnetting · static routing · OSPF · IPv6 · VLAN · STP · EtherChannel · NAT · firewall · DHCP · DNS · VPN (Tailscale) · Wireshark · Active Directory · TLS · NIS2</sub></p>
 
 <p align="center"><img src="https://raw.githubusercontent.com/Vladc3/Vladc3/output/activity.svg" width="800" alt="Contribution activity over the last year with current and longest streak" /></p>
 
