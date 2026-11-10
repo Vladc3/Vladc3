@@ -6,7 +6,7 @@
 
 <br>
 
-<img src="https://img.shields.io/badge/open%20to%20work-6%20h%2Fweek-3ECF8E?style=flat-square&labelColor=101316" alt="Open to work, 6 hours a week" />
+<img src="https://img.shields.io/badge/open%20to%20work-3ECF8E?style=flat-square" alt="Open to work" />
 <img src="https://img.shields.io/badge/based%20in-Prague-B48CFF?style=flat-square&labelColor=101316" alt="Based in Prague" />
 <img src="https://img.shields.io/badge/Cisco-CCNA%20courses-7FE3F0?style=flat-square&labelColor=101316" alt="Cisco CCNA courses" />
 
@@ -19,7 +19,7 @@
 - **Homelab:** Proxmox, Ubuntu Server, Docker (n8n, Uptime Kuma)
 - **Experience:** 2× internship at České Radiokomunikace, co-founder of [Syvia](https://syvia.cz), Hack The Box
 - **Courses:** Cisco CCNA (ITN, SRWE, ITE), NDG Linux
-- **Open to:** part-time remote DevOps / DevSecOps work, 6 h/week (invoicing as a Czech sole trader)
+- **Open to work**
 
 ### Skills
 
