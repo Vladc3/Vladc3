@@ -1,18 +1,16 @@
 <div align="center">
 
-```text
-┌──────────────────────────────────────────────────────┐
-│  VOVA // SECURE TERMINAL            session: ACTIVE  │
-│  host: prague-01        clearance: junior (for now)  │
-└──────────────────────────────────────────────────────┘
-```
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1400&color=F5B454&center=true&vCenter=true&width=640&height=48&duration=3200&lines=%24+whoami;Cybersecurity+student+%C2%B7+SPŠE+Prague;Junior+DevSecOps;hardening+%C2%B7+backups+%C2%B7+CI+that+scans+itself" alt="whoami: cybersecurity student, junior DevSecOps" />
+
+<br>
+
+<img src="https://skillicons.dev/icons?i=linux,docker,proxmox,ansible,bash,py,powershell,git,githubactions&theme=dark" alt="Linux, Docker, Proxmox, Ansible, Bash, Python, PowerShell, Git, GitHub Actions" />
 
 </div>
 
-```console
-vova@prague-01:~$ whoami
-vova — cybersecurity student (SPŠE Prague), junior DevSecOps
+<br>
 
+```console
 vova@prague-01:~$ cat mission.log
 [ACTIVE]  Ansible server hardening
 [ACTIVE]  Backups with a restore that was actually tested
@@ -24,6 +22,7 @@ vova@prague-01:~$ cat service-record.txt
 certs ................ CCNA (ITN, ITE)
 training grounds ..... Hack The Box
 homelab .............. Proxmox · Ubuntu Server · Docker (n8n, Uptime Kuma)
+also in the toolbox .. Cisco networking
 
 vova@prague-01:~$ ./availability --check
 status:  OPEN
@@ -36,22 +35,16 @@ vova.builds.sec@gmail.com
 vova@prague-01:~$ _
 ```
 
-### Loadout
+<div align="center">
 
-![Linux](https://img.shields.io/badge/Linux-1a1a1a?style=flat-square&logo=linux&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-1a1a1a?style=flat-square&logo=docker&logoColor=2496ED)
-![Proxmox](https://img.shields.io/badge/Proxmox-1a1a1a?style=flat-square&logo=proxmox&logoColor=E57000)
-![Bash](https://img.shields.io/badge/Bash-1a1a1a?style=flat-square&logo=gnubash&logoColor=white)
-![Python](https://img.shields.io/badge/Python-1a1a1a?style=flat-square&logo=python&logoColor=3776AB)
-![PowerShell](https://img.shields.io/badge/PowerShell-1a1a1a?style=flat-square&logo=powershell&logoColor=5391FE)
-![Git](https://img.shields.io/badge/Git-1a1a1a?style=flat-square&logo=git&logoColor=F05032)
-![Cisco](https://img.shields.io/badge/Cisco-1a1a1a?style=flat-square&logo=cisco&logoColor=1BA0D7)
+<img src="https://streak-stats.demolab.com?user=Vladc3&hide_border=false&background=090B0D&ring=F5B454&fire=F5B454&currStreakNum=EDEDED&sideNums=EDEDED&currStreakLabel=F5B454&sideLabels=A1A1A1&dates=808080&stroke=3D3931&border=3D3931" alt="GitHub streak" />
 
-### Telemetry
+<br><br>
 
-![](https://github-readme-stats.vercel.app/api?username=Vladc3&theme=dark&hide_border=true&include_all_commits=true&count_private=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Vladc3&theme=dark&hide_border=true&layout=compact)
+<img src="https://raw.githubusercontent.com/Vladc3/Vladc3/output/snake.svg" alt="Contribution graph with a snake eating the commits" />
 
-![](https://nirzak-streak-stats.vercel.app/?user=Vladc3&theme=dark&hide_border=true)
+<br>
 
-<sub>`EOF` — transmission ends.</sub>
+<sub><code>EOF</code> — transmission ends.</sub>
+
+</div>
