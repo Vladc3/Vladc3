@@ -1,36 +1,57 @@
-## Hi, I'm Vova
-Cybersecurity student (SPŠE Prague) · Junior DevSecOps
+<div align="center">
 
-- **Working on:** Ansible server hardening, backups with a tested restore, CI/CD with Trivy & gitleaks
-- **Homelab:** Proxmox, Ubuntu Server, Docker (n8n, Uptime Kuma)
-- **Experience:** 2× internship at České Radiokomunikace · CCNA (ITN, ITE) · Hack The Box
-- **Open to:** part-time remote DevOps / DevSecOps work, 6 h/week (invoicing as a Czech sole trader)
-- **Contact:** vova.builds.sec@gmail.com
+```text
+┌──────────────────────────────────────────────────────┐
+│  VOVA // SECURE TERMINAL            session: ACTIVE  │
+│  host: prague-01        clearance: junior (for now)  │
+└──────────────────────────────────────────────────────┘
+```
 
+</div>
 
-# 💻 Tech Stack:
-Linux · Docker · Proxmox · Bash · Python · PowerShell · Git · Cisco networking
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Vladc3&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Vladc3&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Vladc3&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+```console
+vova@prague-01:~$ whoami
+vova — cybersecurity student (SPŠE Prague), junior DevSecOps
 
----
-[![](https://visitcount.itsvg.in/api?id=Vladc3&icon=0&color=8)](https://visitcount.itsvg.in)
+vova@prague-01:~$ cat mission.log
+[ACTIVE]  Ansible server hardening
+[ACTIVE]  Backups with a restore that was actually tested
+[ACTIVE]  CI/CD that scans itself: Trivy + gitleaks
+[SEALED]  Everything else (ask nicely)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->## Hi there 👋
+vova@prague-01:~$ cat service-record.txt
+2x internship ........ České Radiokomunikace
+certs ................ CCNA (ITN, ITE)
+training grounds ..... Hack The Box
+homelab .............. Proxmox · Ubuntu Server · Docker (n8n, Uptime Kuma)
 
-<!--
-**Vladc3/Vladc3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+vova@prague-01:~$ ./availability --check
+status:  OPEN
+terms:   part-time remote DevOps / DevSecOps, 6 h/week
+billing: Czech sole trader
 
-Here are some ideas to get you started:
+vova@prague-01:~$ ./contact --secure
+vova.builds.sec@gmail.com
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+vova@prague-01:~$ _
+```
+
+### Loadout
+
+![Linux](https://img.shields.io/badge/Linux-1a1a1a?style=flat-square&logo=linux&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-1a1a1a?style=flat-square&logo=docker&logoColor=2496ED)
+![Proxmox](https://img.shields.io/badge/Proxmox-1a1a1a?style=flat-square&logo=proxmox&logoColor=E57000)
+![Bash](https://img.shields.io/badge/Bash-1a1a1a?style=flat-square&logo=gnubash&logoColor=white)
+![Python](https://img.shields.io/badge/Python-1a1a1a?style=flat-square&logo=python&logoColor=3776AB)
+![PowerShell](https://img.shields.io/badge/PowerShell-1a1a1a?style=flat-square&logo=powershell&logoColor=5391FE)
+![Git](https://img.shields.io/badge/Git-1a1a1a?style=flat-square&logo=git&logoColor=F05032)
+![Cisco](https://img.shields.io/badge/Cisco-1a1a1a?style=flat-square&logo=cisco&logoColor=1BA0D7)
+
+### Telemetry
+
+![](https://github-readme-stats.vercel.app/api?username=Vladc3&theme=dark&hide_border=true&include_all_commits=true&count_private=false)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Vladc3&theme=dark&hide_border=true&layout=compact)
+
+![](https://nirzak-streak-stats.vercel.app/?user=Vladc3&theme=dark&hide_border=true)
+
+<sub>`EOF` — transmission ends.</sub>
