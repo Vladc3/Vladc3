@@ -1,36 +1,13 @@
-## Hi, I'm Vova
-Cybersecurity student (SPŠE Prague) · Junior DevSecOps
+<p align="center"><img src="assets/ide.svg" width="800" alt="vova.ts in a code editor: Cybersecurity student and junior DevSecOps from Prague, SPŠE V Úžlabině, working on Ansible hardening, tested backups and CI/CD with Trivy and gitleaks. Homelab with Proxmox, Ubuntu Server and Docker. Two internships at České Radiokomunikace, co-founder of Syvia, Hack The Box, picoCTF, Cisco CCNA courses and NDG Linux. Open to work. Contact vova.builds.sec@gmail.com."></p>
 
-- **Working on:** Ansible server hardening, backups with a tested restore, CI/CD with Trivy & gitleaks
-- **Homelab:** Proxmox, Ubuntu Server, Docker (n8n, Uptime Kuma)
-- **Experience:** 2× internship at České Radiokomunikace · CCNA (ITN, ITE) · Hack The Box
-- **Open to:** part-time remote DevOps / DevSecOps work, 6 h/week (invoicing as a Czech sole trader)
-- **Contact:** vova.builds.sec@gmail.com
+<p align="center"><img src="https://skillicons.dev/icons?i=linux,docker,ansible,windows,bash,py,cs,git,githubactions&theme=dark" alt="Linux, Docker, Ansible, Windows, Bash, Python, C#, Git, GitHub Actions" /></p>
 
+<p align="center"><sub>Networking · Windows Server and Active Directory · Linux · Containers · Programming (Python, C#, SQL) · Security · Hardware</sub></p>
 
-# 💻 Tech Stack:
-Linux · Docker · Proxmox · Bash · Python · PowerShell · Git · Cisco networking
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Vladc3&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Vladc3&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Vladc3&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+<p align="center"><img src="https://raw.githubusercontent.com/Vladc3/Vladc3/output/activity.svg" width="800" alt="Contribution activity over the last year with current and longest streak" /></p>
 
----
-[![](https://visitcount.itsvg.in/api?id=Vladc3&icon=0&color=8)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->## Hi there 👋
-
-<!--
-**Vladc3/Vladc3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+<a href="mailto:vova.builds.sec@gmail.com"><img src="https://img.shields.io/badge/e--mail-vova.builds.sec%40gmail.com-F5B454?style=flat-square&labelColor=101316" alt="E-mail" /></a>
+<a href="https://www.vova-builds.dev"><img src="https://img.shields.io/badge/web-vova--builds.dev-7FE3F0?style=flat-square&labelColor=101316" alt="Website vova-builds.dev" /></a>
+<a href="https://www.instagram.com/proste_v0va/"><img src="https://img.shields.io/badge/instagram-%40proste__v0va-B48CFF?style=flat-square&labelColor=101316" alt="Instagram @proste_v0va" /></a>
+</p>
