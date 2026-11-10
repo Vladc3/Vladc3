@@ -19,7 +19,7 @@ vova@prague-01:~$ cat mission.log
 
 vova@prague-01:~$ cat service-record.txt
 2x internship ........ České Radiokomunikace
-certs ................ CCNA (ITN, ITE)
+certs ................ CCNA (ITN, SRWE, ITE)
 training grounds ..... Hack The Box
 homelab .............. Proxmox · Ubuntu Server · Docker (n8n, Uptime Kuma)
 also in the toolbox .. Cisco networking
