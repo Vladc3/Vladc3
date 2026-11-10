@@ -31,9 +31,6 @@ Cisco IOS · MikroTik · OSPF · IPv6 · VPN (Tailscale) · Wireshark · Active 
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Vladc3&show_icons=true&hide_border=false&bg_color=090B0D&title_color=F5B454&text_color=EDEDED&icon_color=7FE3F0&border_color=232A30&ring_color=B48CFF" alt="GitHub stats" />
-<img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Vladc3&layout=compact&hide_border=false&bg_color=090B0D&title_color=F5B454&text_color=EDEDED&border_color=232A30" alt="Top languages" />
-
 <img src="https://streak-stats.demolab.com?user=Vladc3&background=090B0D&ring=B48CFF&fire=F5B454&currStreakNum=EDEDED&sideNums=EDEDED&currStreakLabel=F5B454&sideLabels=A1A1A1&dates=808080&stroke=232A30&border=232A30" alt="GitHub streak" />
 
 <img src="https://raw.githubusercontent.com/Vladc3/Vladc3/output/snake.svg" alt="Contribution graph with a snake eating the commits" />
