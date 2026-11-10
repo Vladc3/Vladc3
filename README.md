@@ -16,7 +16,7 @@
 
 - **Studying:** cybersecurity at SPŠE V Úžlabině, school-leaving exam 05/2027
 - **Working on:** Ansible server hardening, backups with a tested restore, CI/CD with Trivy and gitleaks
-- **Homelab:** Proxmox, Ubuntu Server, Docker (n8n, Uptime Kuma)
+- **Homelab:** Proxmox, Ubuntu Server, Docker
 - **Experience:** 2× internship at České Radiokomunikace, co-founder of [Syvia](https://syvia.cz), Hack The Box
 - **Courses:** Cisco CCNA (ITN, SRWE, ITE), NDG Linux
 - **Open to work**
